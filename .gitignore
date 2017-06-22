@@ -3,7 +3,6 @@ __pycache__/
 *.py[cod]
 *.sh
 *$py.class
-nginx/sbin
 
 # C extensions
 *.so
@@ -11,6 +10,7 @@ nginx/sbin
 # Distribution / packaging
 .Python
 env/
+nginx/sbin/
 build/
 develop-eggs/
 dist/
