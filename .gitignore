@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *.sh
 *$py.class
+nginx/sbin
 
 # C extensions
 *.so
