@@ -1,2 +1,2 @@
-# tplinux.cn-nginx
-tplinux.cn nginx 配置
+#nginx
+nginx 配置
